@@ -1,2 +1,2 @@
 # hello-world
-Description" box, type a short description. For example, type "This repository is for practicing the GitHub Flow.
+I have a dog and this repository is for practicing the GitHub Flow.
